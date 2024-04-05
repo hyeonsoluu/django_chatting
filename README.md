@@ -8,5 +8,5 @@
   - 진행 일시 : 2023.11
 2. 구현
    - DB : SQLite
-   - Language : Python, HTML
+   - Language : Python, HTML
    - Framework : Django
